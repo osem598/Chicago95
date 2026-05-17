@@ -160,7 +160,7 @@
 @import url("gtk-list_cell_and_rows.css");
 @import url("gtk-paned.css");
 @import url("gtk-separators.css");
-@import url("gtk-treeviews.css");
+/*@import url("gtk-treeviews.css");*/
 @import url("gtk-entry.css");
 @import url("gtk-combobox.css");
 @import url("gtk-scrollbar.css");
@@ -187,4 +187,4 @@
 @import url("apps/nemo.css"); 
 @import url("apps/synaptic.css");*/
 @import url("apps/lightdm-gtk-greeter.css");
-@import url("apps/xfce-panel-hacks.css");
+/*@import url("apps/xfce-panel-hacks.css");*/
